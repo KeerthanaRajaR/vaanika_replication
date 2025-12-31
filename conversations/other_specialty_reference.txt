@@ -1,0 +1,19 @@
+Doctor: You mentioned jaw pain and clicking sounds.
+
+Patient: Yes, especially while opening my mouth.
+
+Doctor: This could be related to TMJ disorder.
+
+Patient: Is it serious?
+
+Doctor: Usually manageable with therapy and splints.
+
+Patient: Do I need surgery?
+
+Doctor: No, conservative treatment is enough initially.
+
+Patient: What about alignment issues?
+
+Doctor: Orthodontic treatment can help improve bite balance.
+
+Patient: That sounds good.

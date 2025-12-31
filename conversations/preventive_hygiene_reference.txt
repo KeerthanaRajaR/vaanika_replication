@@ -1,0 +1,29 @@
+Doctor: Welcome back. Today we’ll talk about preventive dental hygiene. How often do you brush your teeth?
+
+Patient: Twice a day, but I’m not very regular with flossing.
+
+Doctor: Flossing is important to remove plaque between teeth where brushing cannot reach.
+
+Patient: I didn’t know that much food gets stuck there.
+
+Doctor: Yes, plaque buildup can lead to gum disease and cavities. Do your gums bleed while brushing?
+
+Patient: Sometimes yes.
+
+Doctor: That indicates early gingivitis. Regular cleaning can reverse it.
+
+Patient: What should I do daily?
+
+Doctor: Brush twice daily with fluoridated toothpaste, floss once daily, and rinse with mouthwash.
+
+Patient: How often should I come for cleaning?
+
+Doctor: Every six months is ideal.
+
+Patient: Does cleaning damage teeth?
+
+Doctor: No, professional scaling removes harmful deposits and protects your teeth.
+
+Patient: That sounds good.
+
+Doctor: We’ll schedule your scaling appointment and provide hygiene instructions.

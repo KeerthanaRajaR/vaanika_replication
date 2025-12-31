@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+venv310/
+.env
+
+# Audio (VERY IMPORTANT)
+audio/
+*.wav
+
+# OS
+.DS_Store

@@ -1,0 +1,25 @@
+Doctor: Today we’ll discuss restoring a decayed tooth with fillings.
+
+Patient: Does that mean drilling?
+
+Doctor: Yes, but only the decayed part. The procedure is painless with anesthesia.
+
+Patient: How long does it take?
+
+Doctor: Around 30 to 45 minutes.
+
+Patient: What type of filling will you use?
+
+Doctor: Tooth-colored composite filling for better aesthetics.
+
+Patient: Will it last long?
+
+Doctor: With proper care, it can last many years.
+
+Patient: Can I eat immediately after?
+
+Doctor: Wait until numbness wears off. Avoid hard foods for a few hours.
+
+Patient: Okay doctor.
+
+Doctor: We’ll restore the tooth and prevent further decay.

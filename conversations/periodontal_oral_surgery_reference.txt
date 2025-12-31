@@ -1,0 +1,23 @@
+Doctor: Your gums show signs of advanced periodontal disease.
+
+Patient: Is surgery necessary?
+
+Doctor: In your case, minor gum surgery will help reduce infection.
+
+Patient: What does the surgery involve?
+
+Doctor: Cleaning deep pockets and reshaping the gums.
+
+Patient: Will there be bleeding?
+
+Doctor: Minimal bleeding, and healing is quick.
+
+Patient: How long is recovery?
+
+Doctor: About one week with proper care.
+
+Patient: Will I be able to eat normally?
+
+Doctor: Soft foods for a few days.
+
+Doctor: This will improve gum health and prevent tooth loss

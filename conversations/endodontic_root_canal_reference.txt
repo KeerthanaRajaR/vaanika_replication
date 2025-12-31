@@ -1,0 +1,25 @@
+Doctor: Based on your X-ray, we recommend a root canal treatment.
+
+Patient: I’ve heard root canals are painful.
+
+Doctor: That’s a myth. With anesthesia, it’s comfortable.
+
+Patient: What exactly happens during the procedure?
+
+Doctor: We remove the infected pulp, clean the canal, and seal it.
+
+Patient: How long will it take?
+
+Doctor: About 60 to 90 minutes.
+
+Patient: Will I need medication?
+
+Doctor: You can take ibuprofen if needed. Avoid exceeding the daily dose.
+
+Patient: Is the tooth saved after this?
+
+Doctor: Yes, the tooth remains functional.
+
+Patient: That’s reassuring.
+
+Doctor: We’ll schedule the procedure and follow up afterward.
