@@ -1,0 +1,1 @@
+Doctor: Hello, this is a short test. Patient: Hello, thank you.
