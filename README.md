@@ -1,7 +1,7 @@
-# Dental ASR – Long Dummy Conversations (Whisper via Groq)
+# Vaanika's project Replication
 
 ## Overview
-Curated **~10 minute** doctor–patient dental conversations for speech-to-text (ASR) testing. Text is authored to feel clinically realistic, converted to audio with TTS, transcribed with **Whisper (Groq STT API)**, cleaned, and optionally turned into SOAP-style clinical reports.
+Created **~10 minute** doctor–patient dental conversations for speech-to-text (ASR) testing. Text is authored to feel clinically realistic, converted to audio with TTS, transcribed with **Whisper (Groq STT API)**, cleaned, and optionally turned into SOAP-style clinical reports.
 
 ## Scenarios (≈10 minutes each)
 - Diagnostic Examination
@@ -68,6 +68,3 @@ Curated **~10 minute** doctor–patient dental conversations for speech-to-text 
 - Transcription uses Groq-hosted Whisper; set `GROQ_API_KEY` before running.
 - Cleaning and report steps are deterministic prompts tuned for dental context.
 
-## Status
-As of 2026-01-02: audio generated, transcriptions completed, cleaned transcripts available, and SOAP reports produced for most scenarios. The dataset is ready for ASR benchmarking or downstream NLP experimentation.
-│   ├── prosthodontic_implant_reference.txt
