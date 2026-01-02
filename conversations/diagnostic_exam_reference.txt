@@ -1,98 +1,149 @@
-Doctor: Good morning. This is Dr. Ananya, dentist at SmileCare Dental Clinic. Please have a seat. How are you feeling today?
+Dr. Ananya: Good morning, and welcome to SmileCare Dental Clinic. I’m Dr. Ananya—please make yourself comfortable in the chair. How are you feeling this morning?
 
-Patient: Good morning, doctor. I’m okay, but honestly a bit anxious. I haven’t been to a dentist in a long time.
+Patient: Morning, Doctor. I’m okay, I guess… just a bit nervous. It’s been… wow, probably five or six years since anyone looked in my mouth.
 
-Doctor: That’s completely understandable. Many patients feel the same way. Don’t worry, today’s visit is just a diagnostic examination. We’ll take it step by step and nothing will be done without explaining it to you first.
+Dr. Ananya: Five or six years is a long gap, but you’re here now—that’s what matters. Let’s start with something easy. While the chair reclines, tell me what you’d like me to call you.
 
-Patient: That makes me feel better, thank you.
+Patient: “Priya” is fine. My mom insisted I finally come because I’ve been wincing every time we have ice-cream night.
 
-Doctor: You’re welcome. Let’s start with some basic questions. What brings you in today?
+Dr. Ananya: Ice-cream night sounds fun—sorry it’s been painful. Priya, before we dive in, is there anything specific worrying you about today?
 
-Patient: I’ve been having pain on the lower left side of my mouth for the past two weeks. It’s not constant, but it comes and goes.
+Patient: Mainly the unknown. I keep imagining the worst-case scenario—like maybe every tooth has to come out or something dramatic.
 
-Doctor: Alright. When the pain occurs, how would you describe it? Is it sharp, dull, or throbbing?
+Dr. Ananya: Totally understandable. Let me reassure you: today is purely diagnostic. No drilling, no injections, no surprises. We’ll go at your pace, and I’ll narrate everything as we go. Deal?
 
-Patient: Most of the time it’s a dull ache, but sometimes when I drink something cold, it suddenly becomes very sharp.
+Patient: Deal. That already helps.
 
-Doctor: I see. Does the pain linger after drinking something cold, or does it go away quickly?
+Dr. Ananya: Excellent. Let’s begin with some background. Could you list any medications you take daily—prescription, over-the-counter, herbal?
 
-Patient: It usually stays for a minute or two and then slowly fades.
+Patient: I take a multivitamin and an iron supplement because my GP said my ferritin was low. Nothing prescription.
 
-Doctor: That’s helpful information. Have you noticed any swelling in that area?
+Dr. Ananya: Good. Any allergies I should know—latex, metals, medicines?
 
-Patient: Yes, just a little bit. Not very obvious, but I can feel it with my tongue.
+Patient: Penicillin gives me hives. That’s about it.
 
-Doctor: Any fever, headache, or difficulty opening your mouth?
+Dr. Ananya: Noted. Medical conditions—diabetes, blood-pressure issues, heart murmur, pregnancy?
 
-Patient: No fever or headache. Opening my mouth is fine.
+Patient: None of those. My blood pressure was 118/78 last week at a pharmacy kiosk.
 
-Doctor: Good. Are you currently taking any medications?
+Dr. Ananya: Perfect. Now, on a scale of 1–10, how’s your pain right now at this moment?
 
-Patient: Just occasional painkillers when the pain becomes uncomfortable.
+Patient: Right now it’s zero. It’s weird—it’s like the tooth waits for cold or sometimes sugar, then boom, shoots up to a 6 or 7.
 
-Doctor: Alright. Do you have any known medical conditions like diabetes, high blood pressure, or asthma?
+Dr. Ananya: Let’s capture that. When did you first notice it?
 
-Patient: No, I don’t have any medical conditions.
+Patient: Roughly two weeks ago, after I bit into a cold granola bar. I thought “sensitive toothpaste will fix it,” but it’s getting angrier.
 
-Doctor: Any allergies to medications?
+Dr. Ananya: Describe the pain quality—sharp, dull, throbbing, electric?
 
-Patient: Yes, I’m allergic to penicillin.
+Patient: At first it’s sharp, like someone poking with a needle, then it settles into a dull throb that hangs around a minute or two.
 
-Doctor: Thank you for letting me know. That’s important. Now I’m going to do an oral examination. Please open your mouth slowly.
+Dr. Ananya: Does heat bother it?
 
-Patient: Okay, doctor.
+Patient: Hot coffee doesn’t seem to trigger it—only cold and sometimes sweet.
 
-Doctor: I’m checking your gums, teeth, and oral tissues. You might feel slight pressure but no pain. Let me know if you feel uncomfortable.
+Dr. Ananya: When the pain fades, does it disappear completely or taper slowly?
 
-Patient: Sure.
+Patient: Tapers slowly. I find myself breathing through my mouth so my lip doesn’t touch the tooth.
 
-Doctor: I can see some plaque buildup along the gum line, especially on the lower teeth. Your gums look slightly inflamed in that area. I also notice a deep cavity on the lower left molar.
+Dr. Ananya: Any night pain waking you up?
 
-Patient: Is that bad?
+Patient: Not yet, thankfully.
 
-Doctor: It means the tooth has decay that has progressed deeper than the surface. I’m going to gently tap the tooth now. Tell me if it hurts.
+Dr. Ananya: Good sign. Swelling inside the cheek or any funny taste?
 
-Patient: Ouch, yes, that feels sensitive.
+Patient: A tiny swelling at the bottom left. No bad taste.
 
-Doctor: That sensitivity suggests the tooth nerve may be irritated. This could indicate pulpitis, which is inflammation of the dental pulp.
+Dr. Ananya: Has the tooth felt higher when you close, like it touches first?
 
-Patient: That sounds serious. Is it dangerous?
+Patient: Now that you mention it, yes—feels “taller” when I bite.
 
-Doctor: It can become serious if left untreated, but we’ve caught it at a manageable stage. To confirm the diagnosis, I’ll need to take a dental X-ray.
+Dr. Ananya: Useful clue. Ever had trauma—sport injury, car accident, braces?
 
-Patient: Is the X-ray safe?
+Patient: I wore braces in high school, removed six years ago. No recent knocks.
 
-Doctor: Yes, it’s completely safe. The radiation exposure is minimal. We also use protective shielding.
+Dr. Ananya: Do you grind or clench?
 
-Patient: Okay, I’m fine with that.
+Patient: My roommate says I grind. She can hear it at night.
 
-Doctor: Great. Please bite down gently on this sensor and stay still for a few seconds.
+Dr. Ananya: We’ll talk about a night guard later. Family history of lots of cavities or gum issues?
 
-Patient: Alright.
+Patient: My dad had dentures at 55, mum has crowns on most molars. I figured it’s inevitable.
 
-Doctor: The X-ray is done. Let me take a look.
-Alright, I can see decay close to the pulp and mild infection near the root apex of the tooth.
+Dr. Ananya: Genetics load the gun, but habits pull the trigger—so we can still change the ending. Let’s look. I’ll use the dental light—please give me a thumbs-up if you need me to stop.
 
-Patient: So what does that mean for me?
+Patient: Okay.
 
-Doctor: Based on this examination, the tooth may need a root canal treatment to remove the infected pulp and save the tooth. However, we’ll confirm the treatment plan after discussing all options.
+Dr. Ananya: I see some plaque along the lower front lingual surfaces—classic coffee-stain pattern. Gums look puffy in the posterior mandible. Let me use the air syringe briefly—tell me when it feels sensitive.
 
-Patient: Will the tooth have to be removed?
+Patient: There—yes, that molar feels like an ice pick!
 
-Doctor: At this stage, no. The tooth can most likely be saved, which is always our goal.
+Dr. Ananya: That’s the second molar, tooth 37. I notice a fracture line in the mesial marginal ridge and a deep occlusal cavity. I’m going to tap gently with a mirror handle—just tap, no pressure.
 
-Patient: That’s a relief.
+Patient: Ow, that’s sore.
 
-Doctor: For now, this visit is only diagnostic. I’ll document all findings, and we’ll plan the next steps. Do you have any questions so far?
+Dr. Ananya: And a final test—this is a cold cotton pellet. Raise your hand when the sensation starts and again when it stops.
 
-Patient: Just one. Is there anything I should avoid doing until the next appointment?
+Patient: Immediate… okay, it’s fading… now.
 
-Doctor: Yes. Avoid chewing on the left side, especially hard foods. Try to maintain good oral hygiene and let us know if the pain worsens or if swelling increases.
+Dr. Ananya: The cold lingered about 25 seconds—borderline irreversible. Let’s get an X-ray. I’ll place a lead apron with a thyroid collar—radiation is about the same as eating two bananas.
 
-Patient: Okay, I’ll do that.
+Patient: Two bananas—nice comparison. Go ahead.
 
-Doctor: Excellent. We’ll schedule your next visit for treatment discussion and planning. Thank you for coming in today.
+Dr. Ananya: Bite on this sensor—perfect, hold still. Done. Let me pull up the image… You can see it on the monitor too. The decay is within two millimetres of the pulp chamber and there’s a periapical radiolucency at the mesial root.
 
-Patient: Thank you, doctor. I feel much more informed now.
+Patient: English, please?
 
-Doctor: You’re welcome. Take care, and we’ll see you soon.
+Dr. Ananya: The nerve tissue is likely infected and the body has produced a tiny fluid sac at the root tip—classic periapical periodontitis.
+
+Patient: So I’m not crazy—there really is something brewing.
+
+Dr. Ananya: Absolutely. Now let’s outline the roadmap. Option one: root-canal therapy to remove the diseased pulp, disinfect, seal, then crown. Option two: extract and later replace with an implant or bridge. Saving natural tooth is usually first choice because nothing beats biology.
+
+Patient: Root canal—everyone jokes it’s torture. Is it?
+
+Dr. Ananya: Modern endodontics with local anaesthetic is painless during; most patients tell me it’s easier than a filling because I’m not drilling on the side you bite with. Post-op soreness is like a bruise for a couple days—ibuprofen covers it.
+
+Patient: Okay, but I’m allergic to penicillin—does that complicate infection control?
+
+Dr. Ananya: Good catch. We’d give you clindamycin instead if needed. We also use single-use rotary files and laser disinfection; success rate in my hands is above 95%. The alternative—extraction—means three months healing, then implant surgery, three more months, then crown. Time, cost, and you lose proprioception—the tooth can’t feel pressure anymore.
+
+Patient: If we do the root canal, how many visits?
+
+Dr. Ananya: Usually two: first to clean and place an intra-canal medicament, second to fill with gutta-percha. If the case is complex I bring in an endodontist; we have one upstairs. After that, a crown because the tooth becomes brittle.
+
+Patient: Price tag?
+
+Dr. Ananya: At our clinic, molar root canal is 11,000 rupees; PFM crown 8,000; zirconia 14,000. Insurance often covers 50–80%. We can phase it—root canal now, crown next month if budgets are tight.
+
+Patient: And if I do nothing?
+
+Dr. Ananya: The infection can spread into surrounding bone, cause cellulitis, even airway compromise in rare cases. I’ve admitted patients to hospital for IV antibiotics. Better not to gamble.
+
+Patient: Point taken. I’m leaning toward saving it. What’s today’s homework?
+
+Dr. Ananya: First, avoid hard or cold stimuli on that side. Brush twice, floss gently—bleeding is okay, it’s inflammation leaving. Take ibuprofen 400 mg if pain spikes, but not on an empty stomach. If swelling enlarges or you develop fever, call the 24-hour line; we’ll start you on antibiotics and move the appointment earlier.
+
+Patient: I have a business trip next week—can we schedule after?
+
+Dr. Ananya: Absolutely. I have a 45-minute slot Thursday at 4 p.m.—that gives us leeway if you need an extra visit. We’ll also take impressions for a night guard to protect your other teeth from grinding wear.
+
+Patient: Sounds like a plan. Do I pay today or later?
+
+Dr. Ananya: Today’s just the diagnostic fee—800 rupees at reception. We’ll collect the treatment fee on the day we start. Our coordinator will email a treatment plan and codes so you can confirm insurance.
+
+Patient: Perfect. One last thing—do white spots on my front teeth mean new cavities?
+
+Dr. Ananya: Those look like demineralised enamel—early caries but reversible. I’ll prescribe a 0.12% chlorhexidine rinse for one week and fluoride varnish; you’ll switch to 5,000 ppm fluoride toothpaste. With that and the night guard we halt progression.
+
+Patient: Thanks for explaining everything so clearly. My anxiety dropped from a 9 to a 3.
+
+Dr. Ananya: That’s the goal. Any other questions, Priya?
+
+Patient: Not right now. I’ll email if anything pops up.
+
+Dr. Ananya: Great. I’ll walk you to the front desk. Remember, no ice-cream tonight—let’s keep that molar calm.
+
+Patient: Deal. See you Thursday.
+
+Dr. Ananya: Take care, and welcome to the practice. We’ll look after you.

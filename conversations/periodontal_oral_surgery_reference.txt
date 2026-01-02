@@ -1,23 +1,211 @@
-Doctor: Your gums show signs of advanced periodontal disease.
+Doctor: Good morning, Mrs. Carter. I’m Dr. Ramirez. Please, have a seat. How are you doing today?
 
-Patient: Is surgery necessary?
+Patient: Morning, Doctor. I’ve been okay, I guess. A little nervous—my daughter says I’ve been rubbing my jaw in my sleep.
 
-Doctor: In your case, minor gum surgery will help reduce infection.
+Doctor: That’s not uncommon. Before we dive in, can you confirm your birthdate for me?
 
-Patient: What does the surgery involve?
+Patient: March 14, 1962.
 
-Doctor: Cleaning deep pockets and reshaping the gums.
+Doctor: Perfect. First visit here, correct?
 
-Patient: Will there be bleeding?
+Patient: Yes. My dentist on the east side retired, so my neighbor recommended you.
 
-Doctor: Minimal bleeding, and healing is quick.
+Doctor: Welcome, then. Let’s start with the basics. Any new allergies or medications since the health-update form you filled out?
 
-Patient: How long is recovery?
+Patient: Still on metoprolol for blood pressure and 81 mg aspirin. No new allergies.
 
-Doctor: About one week with proper care.
+Doctor: Great. I see you circled “bleeding gums” and “loose lower front tooth” on the form. Tell me more.
 
-Patient: Will I be able to eat normally?
+Patient: Well, every time I rinse I see pink in the sink. Last week my bridge on the lower right felt wiggly, so I pressed on it and it moved. That scared me.
 
-Doctor: Soft foods for a few days.
+Doctor: Understandable. How long has the bleeding been going on?
 
-Doctor: This will improve gum health and prevent tooth loss
+Patient: Maybe six months, but it’s gotten heavier the last two. I thought I was brushing too hard.
+
+Doctor: Do you notice bad taste or odor?
+
+Patient: Yes, especially after coffee. My grandson told me my breath “smells like the trash can.” Kids are honest.
+
+Doctor: They certainly are. Any pain?
+
+Patient: Not sharp pain—more like a dull ache after chewing crusty bread.
+
+Doctor: Got it. On a scale of one to ten, how’s the anxiety today?
+
+Patient: About a seven. I haven’t seen an oral surgeon before, so the word “surgery” rattles me.
+
+Doctor: Totally normal. We’ll take this one step at a time. Let me explain what we’ll do. First, we’ll take a low-radiation 3-D scan and six bitewings so I can see bone levels. Then I’ll do a gentle periodontal charting with a plastic probe so we don’t add trauma. Last, we’ll sit upright and talk findings before anything else.
+
+Patient: Okay. No surprises?
+
+Doctor: No surprises. If at any point you need a break, raise your left hand and we’ll stop.
+
+Patient: Deal.
+
+Doctor: Let’s start with the scan. You’ll stand still for about fifteen seconds while the machine circles your head. I’ll drape a lead apron for protection.
+
+[Machine hums softly]
+
+Patient: That was quick.
+
+Doctor: Technology helps. Now lean back. I’m just going to dry your teeth with air so the probe glides.
+
+Patient: [Chuckles] Cold!
+
+Doctor: Sorry—short blast. You’ll feel me walking the probe around each tooth. Numbers you hear me call out are pocket depths in millimeters. One to three is healthy; four is borderline; five and up signals infection.
+
+Patient: Got it.
+
+Doctor: 3-3-4…3-3-2…5-6-7… Mrs. Carter, I’m seeing widespread five-to-eight-millimeter pockets, especially around the lower incisors and molars. Heavy plaque retention, spongy tissue, and yes, your bridge on 29-30 is grade-two mobile.
+
+Patient: That doesn’t sound good.
+
+Doctor: It’s treatable. Let me finish charting, then we’ll talk solutions.
+
+[Two minutes of charting]
+
+Doctor: All done. Rinse with this lukewarm water. I’m placing a mirror so you can see.
+
+Patient: My gums look purple in spots.
+
+Doctor: That’s chronic inflammation. The color change comes from increased blood flow and venous stasis. You’re looking at advanced periodontitis, stage three, grade C—rapid rate.
+
+Patient: Stage three? I didn’t know there were stages.
+
+Doctor: We classify based on bone loss, age, and systemic factors. You’ve lost approximately forty percent of the supporting bone around the mandibular anterior sextant. The good news: we can halt progression and retain most teeth.
+
+Patient: So surgery?
+
+Doctor: Minor periodontal surgery, yes. I’d recommend flap surgery with modified Widman flaps, direct vision debridement, and possible bone grafting using demineralized freeze-dried bone allograft. We’d also reposition the soft-tissue collar to reduce pocket depth.
+
+Patient: That’s a mouthful. Walk me through it.
+
+Doctor: Under local anesthetic, I reflect small gum flaps, clean granulation tissue, plane root surfaces with ultrasonic and hand instruments, then place regenerative material where bone was lost. Finally, I suture the flaps at a lowered level so you can keep them clean.
+
+Patient: Will I be awake?
+
+Doctor: Fully awake but numb. If you prefer light sedation, we can arrange oral Valium or nitrous.
+
+Patient: Valium might help. I drive myself—would that be okay?
+
+Doctor: With oral Valium you’ll need a driver. Nitrous wears off in five minutes, so you could drive. Which appeals?
+
+Patient: Let’s stick with nitrous.
+
+Doctor: Excellent. We’ll place a nasal hood, you’ll feel floaty in thirty seconds, and when we’re done I give you five minutes of pure oxygen and you’re clear-headed.
+
+Patient: How about bleeding?
+
+Doctor: I use microsurgical blades and 6-0 resorbable sutures. Most patients notice only a pink tinge on the gauze for a couple of hours. Ibuprofen 600 mg handles inflammation.
+
+Patient: I take aspirin daily. Should I stop?
+
+Doctor: Continue it. Current evidence shows minimal impact on periodontal surgery bleeding, and stopping could risk your heart. We’ll use local hemostatic foam if needed.
+
+Patient: Recovery time?
+
+Doctor: Soft tissue heals in seven to ten days. We’ll see you at one week to remove any remaining sutures and polish roots. You’ll eat soft foods—scrambled eggs, pasta, smoothies—three to five days, then gradually return to normal.
+
+Patient: Will the loose tooth tighten?
+
+Doctor: We expect about a fifty percent improvement in mobility once inflammation resolves. If it remains grade-three mobile after six months, we can discuss splinting or replacement.
+
+Patient: Cost?
+
+Doctor: I’ll have our treatment coordinator give you the breakdown. As a rough guide, per quadrant flap is $485; grafting adds $425 per site. Insurance often covers fifty percent. We can phase treatment—do two quadrants now, two later if budget is tight.
+
+Patient: My employer plan has a $1,500 yearly max. Can we fit within that?
+
+Doctor: Very doable. We’ll prioritize the lower anterior area first since that’s where your bridge is failing.
+
+Patient: How long will I be in the chair?
+
+Doctor: About ninety minutes for the first two quadrants, including nitrous recovery.
+
+Patient: Will it hurt tomorrow?
+
+Doctor: Most discomfort peaks at twenty-four hours and feels like a pizza burn. Alternate ibuprofen and acetaminophen keeps it around two out of ten. I’ll prescribe a chlorhexidine rinse to keep bacteria at bay while you heal.
+
+Patient: I hate the taste of that rinse.
+
+Doctor: We can compound a low-alcohol version with mint oil. Tastes like strong mouthwash.
+
+Patient: Better. What happens if I do nothing?
+
+Doctor: Bone loss progresses, more teeth loosen, infection can enter the bloodstream and complicate diabetes or heart disease. Eventually tooth loss becomes inevitable.
+
+Patient: My mom lost all hers by fifty-five. I’m fifty-nine and want to keep my teeth.
+
+Doctor: That’s the goal. Periodontal therapy plus good home care can preserve teeth for decades.
+
+Patient: Speaking of home care, I floss maybe twice a month.
+
+Doctor: After surgery we’ll set up a nightly routine: water flosser on low, sulcular brushing with ultra-soft bristles, and once inflammation resolves, daily floss or interproximal brushes. I’ll show you angles.
+
+Patient: Electric toothbrush?
+
+Doctor: Absolutely. Choose one with pressure sensor—prevents over-scrubbing.
+
+Patient: I clench at night. Does that matter?
+
+Doctor: Significantly. Clenching overloads the periodontium. We’ll make a hard acrylic night-guard to wear after stitches dissolve.
+
+Patient: Okay. Any eating restrictions day of surgery?
+
+Doctor: Light breakfast two hours before. Nothing hot until numbness wears off to avoid burns. Then lukewarm soups, yogurt, pudding. No chips, seeds, or popcorn for a week—they get stuck under flaps.
+
+Patient: I love popcorn. That’ll be tough.
+
+Doctor: Swap to puffed rice cakes for seven days. After we clear you, popcorn returns.
+
+Patient: How about exercise?
+
+Doctor: Light walking same day. Avoid heavy lifting or jogging for forty-eight hours—elevated blood pressure can restart bleeding.
+
+Patient: I teach Zumba. Can I instruct?
+
+Doctor: Take three days off, then resume at half intensity. If you notice throbbing, back off.
+
+Patient: Understood. Will gums recede more?
+
+Doctor: They’ll appear “longer” because we eliminate pockets, but recession is healthier than deep infection. If esthetics bother you later, we can discuss pinhole grafts.
+
+Patient: I’d rather have long teeth than no teeth.
+
+Doctor: Attitude helps success. Any other concerns?
+
+Patient: Will I need antibiotics?
+
+Doctor: For advanced cases I place site-specific low-dose doxycycline to calm enzymes, not for infection. You won’t need systemic clindamycin unless we hit bone graft complications.
+
+Patient: I’m allergic to penicillin.
+
+Doctor: Noted. We avoid that class anyway.
+
+Patient: What about my bridge—does it come off?
+
+Doctor: I can work around it, but if decay shows up underneath, we might section and convert to individual implants later. We’ll plan that separately.
+
+Patient: Sounds expensive.
+
+Doctor: We’ll phase treatment and maximize insurance each year. CareCredit offers no-interest twelve-month plans if you qualify.
+
+Patient: Okay. When can we schedule?
+
+Doctor: I have next Tuesday at 8 a.m. or Thursday at 2 p.m.
+
+Patient: Thursday works. My son can drive me.
+
+Doctor: Perfect. We’ll confirm with text reminders. Arrive fifteen minutes early for nitrous consent.
+
+Patient: One last thing—after I heal, will the bad breath go away?
+
+Doctor: Eliminating bacteria and pockets removes the sulfur gases causing odor. Most patients notice fresher breath within three weeks.
+
+Patient: My grandson will appreciate that.
+
+Doctor: He’ll give you a thumbs-up. Let me walk you to our coordinator, and she’ll print the consent, post-op instructions, and cost estimate.
+
+Patient: Thank you, Doctor. I feel better.
+
+Doctor: You’re welcome, Mrs. Carter. We’ll take great care of you. See you Thursday.

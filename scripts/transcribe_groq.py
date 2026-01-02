@@ -57,7 +57,7 @@ def transcribe(topic, chunk_seconds=60, max_retries=3, retry_delay=2):
     if not os.path.exists(audio_path):
         raise FileNotFoundError(f"Missing audio file: {audio_path}")
 
-    print(f"📝 Transcribing {topic} using Whisper ({GROQ_STT_MODEL})")
+    print(f"📝 Transcribing {topic} using Groq Whisper ({GROQ_STT_MODEL})")
 
     # Determine duration and decide whether to chunk
     try:
@@ -82,10 +82,14 @@ def transcribe(topic, chunk_seconds=60, max_retries=3, retry_delay=2):
             for attempt in range(1, max_retries + 1):
                 try:
                     with open(path, 'rb') as audio:
+                        # Exact Groq API implementation as specified
                         result = client.audio.transcriptions.create(
-                            file=audio,
-                            model=GROQ_STT_MODEL,
-                            response_format="verbose_json"
+                            file=audio,                           # Audio blob
+                            model=GROQ_STT_MODEL,                # STT model (whisper-large-v3-turbo)
+                            response_format="verbose_json",      # verbose_json format
+                            language="en",                       # Always English
+                            prompt="Medical transcription",      # Optional prompt for better accuracy
+                            temperature=0.0                      # Optional temperature for consistency
                         )
                     parts.append(result.text)
                     print(f"✅ Chunk {idx+1}/{len(targets)} transcribed")

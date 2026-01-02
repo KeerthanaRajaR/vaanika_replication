@@ -1,25 +1,143 @@
-Doctor: Based on your X-ray, we recommend a root canal treatment.
+Doctor: Good morning, Mrs. Alvarez. I’m Dr. Patel. Please, have a seat. How are you doing today?
 
-Patient: I’ve heard root canals are painful.
+Patient: Morning, Doctor. I’ve been better. That tooth on the upper left has been keeping me up.
 
-Doctor: That’s a myth. With anesthesia, it’s comfortable.
+Doctor: I’m sorry to hear that. Let’s see what’s going on and get you comfortable. Before we look, can you tell me how long it’s been bothering you?
 
-Patient: What exactly happens during the procedure?
+Patient: It started as a little twinge three weeks ago when I drank cold water. Now it’s a throbbing ache that wakes me at night and shoots up to my temple.
 
-Doctor: We remove the infected pulp, clean the canal, and seal it.
+Doctor: Classic irreversible-pulpitis symptoms. Any heat sensitivity or pressure pain when you chew?
 
-Patient: How long will it take?
+Patient: Yes, hot coffee makes it scream, and if I bite on a granola bar it feels like the tooth is cracking in half.
 
-Doctor: About 60 to 90 minutes.
+Doctor: Got it. Any swelling in your cheek or a bad taste?
 
-Patient: Will I need medication?
+Patient: No swelling, but yesterday I tasted something bitter back there—maybe pus?
 
-Doctor: You can take ibuprofen if needed. Avoid exceeding the daily dose.
+Doctor: Possibly. Let’s update your health history first. Still on lisinopril for blood pressure?
 
-Patient: Is the tooth saved after this?
+Patient: Yes, 10 mg daily. And I take vitamin D3. No allergies.
 
-Doctor: Yes, the tooth remains functional.
+Doctor: Great. Let’s take a look. I’ll recline you slightly. Open just a bit and let me use this mirror—perfect. The upper-left first molar has a large composite that’s breaking down and a tiny fracture line running mesial-to-distal. Let’s do a cold test to confirm.
 
-Patient: That’s reassuring.
+Patient: Ouch! That’s the one—electric-shock pain that lingers.
 
-Doctor: We’ll schedule the procedure and follow up afterward.
+Doctor: That linger confirms irreversible pulpitis. Let’s get a periapical X-ray. I’ll drape this lead apron. Bite down gently on the sensor. Hold still—1, 2, 3, done.
+
+Patient: That was quick.
+
+Doctor: Image is up on the screen. See that dark halo around the roots? That’s periapical inflammation. The decay’s reached the pulp chamber.
+
+Patient: So it’s a root canal, right? I’ve heard horror stories.
+
+Doctor: Modern endodontics is very different from what your grandparents experienced. With good anesthesia you should feel pressure, not pain.
+
+Patient: I’m still nervous. I had a bad extraction twenty years ago and it stuck with me.
+
+Doctor: Totally understandable. We can add nitrous oxide or even prescribe a single oral sedative the night before if you like.
+
+Patient: Maybe the gas. Will I be loopy?
+
+Doctor: You’ll feel floaty but awake enough to answer questions. It wears off in five minutes so you can drive home. Let’s talk you through the procedure so there are no surprises.
+
+Patient: Please. Step-by-step helps.
+
+Doctor: First, we isolate the tooth with a rubber dam—thin sheet that keeps saliva out and protects your airway. Then we remove the old filling and any decay. Next, we create a small access cavity on the chewing surface, just enough to reach the canals. This tooth usually has four canals, sometimes five. We locate each one with an apex-locator and shape them with nickel-titanium rotary files. Between files we irrigate with sodium hypochlorite to flush out bacteria. Once the canals are clean and shaped, we dry them and place a rubber-like biocompatible material called gutta-percha with sealer to fill the space. Finally, we place a temporary filling.
+
+Patient: Where does the infection go?
+
+Doctor: The irrigant dissolves the necrotic tissue and the files physically remove it; the sealer entombs any leftover bacteria so your immune system finishes the job.
+
+Patient: How long will I be numb?
+
+Doctor: I use 4% articaine with 1:100k epi—should give two to three hours of anesthesia. We’ll give you a post-op sheet explaining soft-food diet and no vigorous rinsing today.
+
+Patient: My sister had a root canal and the tooth cracked six months later.
+
+Doctor: That’s why we recommend a crown within four weeks. After a root canal the tooth becomes brittle; a full-coverage crown distributes chewing forces evenly.
+
+Patient: So two procedures?
+
+Doctor: Yes—today’s root canal, then crown prep in four to six weeks. We can take the crown impression the same visit if your schedule is tight.
+
+Patient: How much time am I looking at today?
+
+Doctor: Ninety minutes tops. Most of that is shaping and cleaning; the actual filling takes ten minutes.
+
+Patient: Will I need antibiotics?
+
+Doctor: Not routinely. If there’s diffuse swelling or fever we prescribe amoxicillin 500 mg tid × seven days. You don’t have those signs, so we’ll stick to ibuprofen 600 mg every six hours as needed.
+
+Patient: I’m on lisinopril—any drug interaction?
+
+Doctor: NSAIDs can blunt the antihypertensive effect slightly, but three days at that dose is safe. If you prefer, we can switch to acetaminophen, though ibuprofen controls endodontic inflammation better.
+
+Patient: I’ll stick with ibuprofen. How soon before I can run? I’m training for a 10K.
+
+Doctor: Give it twenty-four hours. Elevated heart rate can transiently increase pulpal pressure and soreness.
+
+Patient: Got it. What about cost? My insurance is Delta PPO.
+
+Doctor: Our treatment coordinator will run a benefits check, but typical coverage is 80% after deductible. Your portion today is roughly $285 for the root canal and $150 for the crown build-up if needed.
+
+Patient: That’s manageable. And success rate?
+
+Doctor: Ninety-five percent at eight years if crowned promptly. The key is not waiting.
+
+Patient: Let’s do it now while I’m motivated.
+
+Doctor: Excellent. I’ll have Jen bring in the consent form. Any final questions?
+
+Patient: Just one—will the tooth turn gray?
+
+Doctor: Sometimes internal staining occurs. If cosmetics bother you later, we can do internal bleaching or the crown will mask it.
+
+Patient: Okay, no more questions.
+
+Doctor: Perfect. Let me wash my hands and we’ll get started. Jen, can you set up 2% nitrous and prep the 30.05 taper files? Mrs. Alvarez, slide the nosepiece on and breathe normally. You’ll taste cherry flavor.
+
+Patient: Mmm, reminds me of bubblegum ice cream.
+
+Doctor: In about thirty seconds you’ll feel warmth. Let me know when your fingers tingle. That tells me we’re at the right level.
+
+Patient: Tingling now.
+
+Doctor: Great. I’ll administer the articaine—little pinch. You’ll feel heartbeats in your ear, totally normal. Swish with topical rinse first. Now injection—one, two, three, all done.
+
+Patient: That was easier than my flu shot.
+
+Doctor: Good. We’ll wait four minutes for full onset. While we wait, Jen will take your blood pressure—118/76, perfect. Let me test with the explorer—no sensation. We’re ready.
+
+Patient: I didn’t feel that.
+
+Doctor: Excellent. Placing rubber dam—just pressure. You’ll hear a squeak. Try not to swallow; the dam keeps everything dry. Jen, suction, please. Starting access—high-speed handpiece. You’ll feel water spray but no pain.
+
+Patient: Sounds like a tiny jackhammer.
+
+Doctor: Exactly. Access done. Locating canals—four visible, possibly a fifth. Apex-locator beeps—working length 21 mm. Starting rotary glide path. Irrigating—let me know if you taste bleach, we’ll suction more.
+
+Patient: Tastes a bit like pool water.
+
+Doctor: We’ll switch to EDTA to neutralize. Shaping canal MB1—done. DB—done. Jen, note we have two mesial and two distal. Moving to final rinse—using 17% EDTA and chlorhexidine sequence. Drying with paper points.
+
+Patient: That smells like Christmas trees.
+
+Doctor: That’s the eugenol. Placing sealer—gutta-percha cone fit confirmed. Down-pack vertical. Back-fill thermoplastic. Temporary IRM placed. Removing dam—bite gently on this cotton roll so the jaw relaxes.
+
+Patient: It’s over? That felt like fifteen minutes.
+
+Doctor: Fifty-five minutes chair time. Let me take a final X-ray—perfect taper, no overfill. You did great. Jen will go over post-op instructions. Any soreness?
+
+Patient: Just feels bruised, like I chewed aluminum.
+
+Doctor: Normal. Keep the ibuprofen schedule, cold compress ten minutes on, ten off, the next four hours. No crunchy tacos tonight—think yogurt, pasta, scrambled eggs.
+
+Patient: Easy enough. When do I schedule the crown?
+
+Doctor: Front desk has my open slots. Ideally within a month. If the temporary breaks, call us 24/7 answering service and we’ll patch it same day.
+
+Patient: Thank you, Doctor. I wish I’d done this sooner.
+
+Doctor: Most patients say that. You took the hardest step—showing up. We’ll see you at the crown prep, and don’t forget to keep training for that 10K.
+
+Patient: Will do. Thanks again.
